@@ -67,48 +67,6 @@ let fruitsData: [Fruit] = [
           nutrition: ["136 kJ (33 kcal)","4,89 g","0,3 g","0,67 g","B1, B2, B3, B5, B6, B9, Colina, C, E, K","Cálcio, Ferro, Magnésio, Manganês, Fósforo, Potássio, Sódio, Zinco"]
         ),
         Fruit(
-          title: "Limão",
-          headline: "Não há dúvida de que os limões são deliciosos, mas adicioná-los à água torna você mais saudável?",
-          image: "lemon",
-          gradientColors: [Color("ColorLemonLight"), Color("ColorLemonDark")],
-          description: """
-                O limão, Citrus limon, é uma espécie de pequena árvore perene da família das plantas com flores Rutaceae, nativa do sul da Ásia, principalmente do nordeste da Índia. Seus frutos são arredondados.
-
-                A fruta amarela elipsoidal da árvore é usada para fins culinários e não culinários em todo o mundo, principalmente por seu suco, que tem usos culinários e de limpeza. A polpa e a casca também são usadas para cozinhar e assar. O suco do limão tem cerca de 5% a 6% de ácido cítrico, com pH em torno de 2,2, o que lhe confere um sabor azedo. O sabor azedo característico do suco de limão o torna um ingrediente-chave em bebidas e alimentos como limonada e torta de limão com merengue.
-
-                NUTRIÇÃO
-
-                O limão é uma rica fonte de vitamina C, fornecendo 64% do Valor Diário em uma quantidade de referência de 100 g (tabela). Outros nutrientes essenciais são baixos em conteúdo.
-
-                Os limões contêm vários fitoquímicos, incluindo polifenóis, terpenos e taninos.[14] O suco de limão contém um pouco mais de ácido cítrico do que o suco de limão (cerca de 47 g/l), quase o dobro do ácido cítrico do suco de toranja e cerca de cinco vezes a quantidade de ácido cítrico encontrada no suco de laranja.
-
-                CULINÁRIA
-
-                Suco de limão, casca e casca são usados em uma grande variedade de alimentos e bebidas. O limão inteiro é usado para fazer marmelada, coalhada de limão e licor de limão. Fatias de limão e casca de limão são usadas como guarnição para alimentos e bebidas. As raspas de limão, a casca externa ralada da fruta, são usadas para dar sabor a assados, pudins, arroz e outros pratos.
-
-                SUCO
-
-                O suco de limão é usado para fazer limonada, refrigerantes e coquetéis. É usado em marinadas para peixes, onde seu ácido neutraliza as aminas dos peixes, convertendo-as em sais de amônio não voláteis. Na carne, o ácido hidrolisa parcialmente as fibras duras de colágeno, amaciando-as.[18] No Reino Unido, o suco de limão é frequentemente adicionado às panquecas, especialmente na terça-feira gorda.
-
-                O suco de limão também é usado como conservante de curto prazo em certos alimentos que tendem a oxidar e escurecer após serem fatiados (escurecimento enzimático), como maçãs, bananas e abacates, onde seu ácido desnatura as enzimas.
-
-                CASCA
-
-                No Marrocos, os limões são conservados em potes ou barris de sal. O sal penetra na casca e na casca, amolecendo-os e curando-os de modo que durem quase indefinidamente.[19] O limão em conserva é utilizado em uma grande variedade de pratos. Limões em conserva também podem ser encontrados em pratos sicilianos, italianos, gregos e franceses.
-
-                A casca pode ser usada na fabricação de pectina, um polissacarídeo usado como agente gelificante e estabilizador em alimentos e outros produtos.[20]
-
-                ÓLEO
-
-                O óleo de limão é extraído de células contendo óleo na pele. Uma máquina quebra as células e usa um spray de água para remover o óleo. A mistura óleo/água é então filtrada e separada por centrifugação.[21]
-
-                FOLHAS
-
-                As folhas do limoeiro servem para fazer um chá e para preparar carnes cozidas e mariscos.
-            """,
-          nutrition: ["121 kJ (29 kcal)","2,5 g","0,3 g","1,1 g","B1, B2, B3, B5, B6, B9, C, colina","Cálcio, ferro, magnésio, manganês, Fósforo, Potássio, Zinco"]
-        ),
-        Fruit(
           title: "Ameixa",
           headline: "A ameixa é uma fruta muito nutritiva. Uma excelente fonte de vitaminas, minerais, fibras e antioxidantes.",
           image: "plum",
@@ -141,7 +99,7 @@ let fruitsData: [Fruit] = [
           nutrition: ["192 kJ (46 kcal)","9,92 g","0,28 g","0,7 g","A, B1, B2, B3, B5, B6, B9, C, E, K","Cálcio, Ferro, Magnésio, Manganês, Fósforo, Potássio, Sódio, Zinco"]
         ),
         Fruit(
-          title: "Laranja",
+          title: "Limão",
           headline: "Frutas cítricas azedas, redondas e verdes brilhantes. Limões são ricos em vitamina C, antioxidantes e outros nutrientes.",
           image: "lime",
           gradientColors: [Color("ColorLimeLight"), Color("ColorLimeDark")],
@@ -186,7 +144,7 @@ let fruitsData: [Fruit] = [
 
                 De cor vermelho-púrpura, a casca do fruto da romã tem duas partes: um pericarpo externo e duro e um mesocarpo esponjoso interno (albedo branco), que compreende a parede interna do fruto onde as sementes se prendem. As membranas do mesocarpo são organizadas como câmaras assimétricas que contêm sementes dentro de sarcotestas, que são encaixadas sem ligação ao mesocarpo. Contendo suco, a sarcotesta é formada como uma fina membrana derivada das células epidérmicas das sementes. O número de sementes em uma romã pode variar de 200 a cerca de 1.400.
 
-                Botanicamente, o fruto comestível é uma baga com sementes e polpa produzida a partir do ovário de uma única flor. A fruta é de tamanho intermediário entre um limão e uma toranja, 5–12 cm (2–5 pol) de diâmetro com uma forma arredondada e casca grossa e avermelhada.
+                Botanicamente, o fruto comestível é uma baga com sementes e polpa produzida a partir do ovário de uma única flor. A fruta é de tamanho intermediário entre um limão e uma tangerina, 5–12 cm (2–5 pol) de diâmetro com uma forma arredondada e casca grossa e avermelhada.
 
                 CULTIVO
 
@@ -345,28 +303,28 @@ let fruitsData: [Fruit] = [
           nutrition: ["209 kJ (50 kcal)","8,5 g","0,3 g","1 g","A, B1, B2, B3, B5, B6, B9, C, K","Cálcio, Ferro, Magnésio, Manganês, Fósforo, Potássio, Sódio, Zinco"]
         ),
         Fruit(
-          title: "Toranja",
+          title: "Tangerina",
           headline: "Frutos doces e em forma de sino que são apreciados desde os tempos antigos. Eles podem ser consumidos crocantes ou macios.",
           image: "grapefruit",
           gradientColors: [Color("ColorGrapefruitLight"), Color("ColorGrapefruitDark")],
           description: """
-                A toranja (Citrus × paradisi) é uma árvore cítrica subtropical conhecida por sua fruta relativamente grande, azeda a semidoce, um tanto amarga. A toranja é um híbrido cítrico originário de Barbados como um cruzamento acidental entre a laranja doce (C. sinensis) e o pomelo (ou shaddock; C. maxima), ambos introduzidos na Ásia no século XVII.[2] Quando encontrado, foi apelidado de "fruto proibido". Freqüentemente, é erroneamente identificado como a espécie parental muito semelhante, o pomelo.
+                A tangerina (Citrus × paradisi) é uma árvore cítrica subtropical conhecida por sua fruta relativamente grande, azeda a semidoce, um tanto amarga. A tangerina é um híbrido cítrico originário de Barbados como um cruzamento acidental entre a laranja doce (C. sinensis) e o pomelo (ou shaddock; C. maxima), ambos introduzidos na Ásia no século XVII.[2] Quando encontrado, foi apelidado de "fruto proibido". Freqüentemente, é erroneamente identificado como a espécie parental muito semelhante, o pomelo.
 
                 A parte "uva" do nome alude a cachos de frutas na árvore que muitas vezes parecem cachos de uva. A polpa interna é segmentada e varia em cor, do branco ao amarelo, do rosa ao vermelho.
 
                 DESCRIÇÃO
 
-                As toranjas perenes geralmente crescem até cerca de 5 a 6 m (16 a 20 pés) de altura, embora possam atingir 13 a 15 m (43 a 49 pés). As folhas são brilhantes, verde-escuras, longas (até 15 cm (5,9 pol.)) e finas. Produz flores brancas de quatro pétalas de 5 cm (2 pol.). A fruta tem casca amarelo-alaranjada e geralmente forma esferóide achatada; varia em diâmetro de 10 a 15 cm (3,9 a 5,9 pol.). A carne é segmentada e ácida, variando de cor dependendo das cultivares, que incluem polpas brancas, rosadas e vermelhas de doçura variável (geralmente, as variedades mais vermelhas são as mais doces). O 1929 US Ruby Red (da variedade 'Redblush') tem a primeira patente de toranja.
+                As tangerinas perenes geralmente crescem até cerca de 5 a 6 m (16 a 20 pés) de altura, embora possam atingir 13 a 15 m (43 a 49 pés). As folhas são brilhantes, verde-escuras, longas (até 15 cm (5,9 pol.)) e finas. Produz flores brancas de quatro pétalas de 5 cm (2 pol.). A fruta tem casca amarelo-alaranjada e geralmente forma esferóide achatada; varia em diâmetro de 10 a 15 cm (3,9 a 5,9 pol.). A carne é segmentada e ácida, variando de cor dependendo das cultivares, que incluem polpas brancas, rosadas e vermelhas de doçura variável (geralmente, as variedades mais vermelhas são as mais doces). O 1929 US Ruby Red (da variedade 'Redblush') tem a primeira patente de tangerina.
 
                 CULINÁRIA
 
-                As variedades de toranja são diferenciadas pela cor da polpa da fruta que produzem. As variedades comuns são as cores de polpa vermelha, branca e rosa. Os sabores variam de altamente ácidos e um pouco azedos a doces e azedos, resultantes da composição de açúcares (principalmente sacarose), ácidos orgânicos (principalmente ácido cítrico) e monoterpenos e sesquiterpenos que fornecem aromas.
+                As variedades de tangerina são diferenciadas pela cor da polpa da fruta que produzem. As variedades comuns são as cores de polpa vermelha, branca e rosa. Os sabores variam de altamente ácidos e um pouco azedos a doces e azedos, resultantes da composição de açúcares (principalmente sacarose), ácidos orgânicos (principalmente ácido cítrico) e monoterpenos e sesquiterpenos que fornecem aromas.
 
-                O mercaptano da toranja, um terpeno contendo enxofre, é um dos compostos aromáticos que influenciam o sabor e o odor da toranja, em comparação com outras frutas cítricas.
+                O mercaptano da tangerina, um terpeno contendo enxofre, é um dos compostos aromáticos que influenciam o sabor e o odor da tangerina, em comparação com outras frutas cítricas.
 
-                A toranja crua contém 90% de água, 8% de carboidratos, 1% de proteína e gordura insignificante (tabela). Em uma quantidade de referência de 100 g, a toranja crua fornece 33 calorias e é uma rica fonte de vitamina C (40% do valor diário), sem outros micronutrientes em conteúdo significativo.
+                A tangerina crua contém 90% de água, 8% de carboidratos, 1% de proteína e gordura insignificante (tabela). Em uma quantidade de referência de 100 g, a tangerina crua fornece 33 calorias e é uma rica fonte de vitamina C (40% do valor diário), sem outros micronutrientes em conteúdo significativo.
 
-                Na Costa Rica, especialmente em Atenas, a toranja costuma ser cozida para tirar o azedume, tornando-a doce; eles também são recheados com doce de leite, resultando em uma sobremesa chamada toronja rellena (toranja recheada). No Haiti, a toranja é usada principalmente para seu suco (jus de Chadèque), mas também é usada para fazer geléia (confiture de Chadèque).
+                Na Costa Rica, especialmente em Atenas, a tangerina costuma ser cozida para tirar o azedume, tornando-a doce; eles também são recheados com doce de leite, resultando em uma sobremesa chamada toronja rellena (tangerina recheada). No Haiti, a tangerina é usada principalmente para seu suco (jus de Chadèque), mas também é usada para fazer geléia (confiture de Chadèque).
             """,
           nutrition: ["138 kJ (33 kcal)","7,31 g","0,10 g","0,8 g","B1, B2, B3, B5, B6, B9, C, E","Cálcio, Ferro, Magnésio, Manganês, Fósforo, Potássio, Zinco"]
         ),
