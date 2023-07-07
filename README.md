@@ -61,7 +61,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
   $ git clone https://github.com/Jhonata-Jackson/fructus-app-swiftui.git
 
   # Abrir projeto no Xcode:
-     Restart.xcodeproj
+     Fructs.xcodeproj
 
 ```
 
